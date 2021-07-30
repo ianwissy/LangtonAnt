@@ -84,8 +84,7 @@ def main():
     print("Welcome to Langton's ant simulation!")
     print("First, please enter a number no larger than 100 for the size of the square board:")
     size = int(input())
-    print("Choose the ant’s starting location, please enter a number as the starting row number (where 0 is the first "
-          "row from the top):")
+    print("Choose the ant’s starting location, please enter a number as the starting row number (where 0 is the first row from the top):")
     row = int(input())
     print("Please enter a number as the starting column number (where 0 is the first column from the left):")
     column = int(input())
