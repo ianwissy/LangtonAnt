@@ -1,6 +1,4 @@
-# project-10
-
-**Remember that this project cannot be submitted late.**
+# LangtonAnt
 
 In this project, you are going to write an Ant class to simulate Langton’s Ant. You can see the brief explanation [here](https://en.wikipedia.org/wiki/Langton%27s_ant).
 
